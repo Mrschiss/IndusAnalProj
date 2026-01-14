@@ -8,4 +8,4 @@ __pycache__/
 
 *.zip
 
-.env
+.envmodels/dwh_sales.csv
