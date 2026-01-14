@@ -1,0 +1,9 @@
+{
+  "model_type": "RNN",
+  "seq_len": 30,
+  "hidden_size": 128,
+  "num_layers": 2,
+  "dropout": 0.2,
+  "lr": 0.001,
+  "batch_size": 32
+}
